@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Salah
+## Hi there 👋 I'm [Salah](https://twitter.com/sakanjo0)
 
 <p>
   <a href="https://twitter.com/sakanjo0">
@@ -10,8 +10,10 @@
   </a>
 </p>
 
-A self-taught developer who loves to work with Laravel, Vue, Tailwind CSS and Rust.
+<a href="https://github.com/sakanjo"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=sakanjo&show_icons=true" align="right" height="150" /></a>
 
-In my spare time, I like to work on side projects, contribute to open-source or help out in the community.
+A **self-taught** developer who loves to work with [Laravel](https://github.com/laravel/framework), [Vue](https://github.com/vuejs/core), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) and [Rust](https://github.com/rust-lang/rust).<br>
 
-I also enjoy reverse engineering as well.
+In my spare time, I like to work on side projects, contribute to open-source or help out in the community.<br>
+
+I also enjoy reverse engineering as well.<br>
