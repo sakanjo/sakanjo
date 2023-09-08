@@ -16,4 +16,4 @@ A **self-taught** developer who loves to work with [Laravel](https://github.com/
 
 In my spare time, I like to work on side projects, contribute to open-source or help out in the community.<br>
 
-I also enjoy reverse engineering as well.<br>
+If you find my work useful, please consider sponsoring me. Thank you!
